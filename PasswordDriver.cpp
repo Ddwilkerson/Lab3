@@ -29,6 +29,7 @@ void guessWords(Password* fh)
 {
 	Keyboard* kb = Keyboard::getKeyboard();
 	int numLeft = fh->getNumberOfPasswordsLeft();
+	
    while (numLeft > 1)  //terminate if the password has been identified, or there is no valid password (user entry error)
    {
 		int best_guess_index = fh->bestGuess();
