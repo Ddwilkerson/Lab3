@@ -10,6 +10,8 @@ using  CSC2110::ReadFile;
 using  CSC2110::WriteFile;
 #include "Text.h"
 using  CSC2110::String;
+#include "Keyboard.h"
+using CSC2110::Keyboard;
 
 #include <iostream>
 using namespace std;
