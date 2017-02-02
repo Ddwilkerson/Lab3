@@ -39,6 +39,11 @@ Password::Password()
 	
 }
 
+int Password::getNumMatches(String* curr_word, String* word_guess)
+{
+	
+}
+
 int Password::bestGuess()
 {
 	int best_guess_index = -1;
