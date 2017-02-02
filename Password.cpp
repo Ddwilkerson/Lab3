@@ -1,5 +1,6 @@
 #include "Password.h"
-using CSC2110::ListArrayIterator;
+#include "ListArray.h"
+using CSC2110::ListArray;
 
 #include <iostream>
 using namespace std;

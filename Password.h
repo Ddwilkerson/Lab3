@@ -11,6 +11,8 @@ using	CSC2110::WriteFile;
 using	CSC2110::String;
 #include "ListArrayIterator.h"
 using	CSC2110::ListArrayIterator;
+#include "ListArray.h"
+using CSC2110::ListArray;
 
 class Password
 {

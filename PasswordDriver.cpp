@@ -1,6 +1,9 @@
 #include "Password.h"
 //fill in includes, don't forget namespaces
 
+#include "ListArray.h"
+using CSC2110::ListArray;
+
 #include "ReadFile.h"
 using  CSC2110::ReadFile;
 #include "WriteFile.h"
