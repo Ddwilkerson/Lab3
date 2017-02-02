@@ -6,6 +6,7 @@ using namespace std;
 
 void addWords(Password* fh)
 {
+	
    Keyboard* kb = Keyboard::getKeyboard();
    String* file_str = kb->readString("Enter the file name containing the possible passwords: ");
    ReadFile* rf = new ReadFile(file_str->getText());

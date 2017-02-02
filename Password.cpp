@@ -5,16 +5,6 @@ using CSC2110::ListArrayIterator;
 using namespace std;
 
 
-
-
-
-
-
-
-
-
-
-
 int Password::bestGuess()
 {
    int best_guess_index = -1;

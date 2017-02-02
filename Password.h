@@ -5,6 +5,7 @@
 
 class Password
 {
+	
    private:
       ListArray<String>* viable_words;  //the list of words that can still be the password
       ListArray<String>* all_words;  //the original list of words
