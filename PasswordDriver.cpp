@@ -1,6 +1,13 @@
 #include "Password.h"
 //fill in includes, don't forget namespaces
 
+#include "ReadFile.h"
+using  CSC2110::ReadFile;
+#include "WriteFile.h"
+using  CSC2110::WriteFile;
+#include "Text.h"
+using  CSC2110::String;
+
 #include <iostream>
 using namespace std;
 
