@@ -3,6 +3,8 @@
 
 //complete the includes
 
+#include "Keyboard.h"
+#include <iostream>
 #include "ReadFile.h"
 using	CSC2110::ReadFile;
 #include "WriteFile.h"
